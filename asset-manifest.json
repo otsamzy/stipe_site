@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stipe_site/static/css/main.4e7a273a.css",
+    "main.js": "/stipe_site/static/js/main.d8ec8797.js",
+    "static/media/phone.svg": "/stipe_site/static/media/phone.94a7a4fe1f82aed65bc22c10a1c6d6ef.svg",
+    "static/media/logo.svg": "/stipe_site/static/media/logo.6ad422bb585e8c12e29343696a1349aa.svg",
+    "static/media/hero.svg": "/stipe_site/static/media/hero.acf1e00e9c9a661a4b0a.svg",
+    "index.html": "/stipe_site/index.html",
+    "main.4e7a273a.css.map": "/stipe_site/static/css/main.4e7a273a.css.map",
+    "main.d8ec8797.js.map": "/stipe_site/static/js/main.d8ec8797.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e7a273a.css",
+    "static/js/main.d8ec8797.js"
+  ]
+}
